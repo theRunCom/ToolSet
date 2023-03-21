@@ -16,5 +16,55 @@ English | [简体中文](README_ZH.md)
 
 [📝Guide](https://github.com/theRunCom/ToolSet/wiki/Guide) |
 [🔭Preview](#Preview) |
-[☕Donation](https://www.buymeacoffee.com/josStorer)
+[☕Donation](#Donation)
+</div>
+
+## Preview
+
+<div align="center">
+
+**LunarVim**
+
+![preview_LunarVim](src/LunarVim.jpg)
+
+**DoomEmacs**
+
+![preview_DoomEmacs](src/DoomEmacs.jpg)
+
+**Vscode**
+
+![preview_Vscode](src/Vscode.jpg)
+
+**Mobaxterm**
+
+![preview_Mobaxterm](src/Mobaxterm.jpg)
+
+**Notion**
+
+![preview_Notion](src/Notion.jpg)
+
+**Tmux**
+
+![preview_Tmux](src/Tmux.jpg)
+
+**IDEA**
+
+![preview_IDEA](src/IDEA.jpg)
+
+**Lazygit**
+
+![preview_Lazygit](src/Lazygit.jpg)
+
+**DataGrip**
+
+![preview_DataGrip](src/DataGrip.jpg)
+
+**Visual Studio**
+
+![preview_Visual Studio](src/Vs.jpg)
+
+**CP Editor**
+
+![preview_CP Editor](src/Cp.jpg)
+
 </div>
