@@ -23,39 +23,45 @@ English | [简体中文](README_ZH.md)
 
 <div align="center">
 
-**LunarVim**
+### **WSL2 Fedora37**
+
+Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友好且功能强大的操作系统，适用于笔记本电脑或台式电脑。它支持广泛的开发人员，从业余爱好者和学生到企业环境中的专业人士!
+
+![preview_Fedora37](src/Fedora37.jpg)
+
+### **LunarVim**
 
 ![preview_LunarVim](src/LunarVim.png)
 
-**DoomEmacs**
+### **Emacs**
 
-![preview_DoomEmacs](src/DoomEmacs.jpg)
+![preview_Emacs](src/Emacs.jpg)
 
-**Vscode**
+### **Vscode**
 
 ![preview_Vscode](src/Vscode.png)
 
-**Mobaxterm**
+### **Mobaxterm**
 
 ![preview_Mobaxterm](src/Mobaxterm.png)
 
-**Notion**
+### **Notion**
 
 ![preview_Notion](src/Notion.jpg)
 
-**Tmux**
+### **Tmux**
 
 ![preview_Tmux](src/Tmux.jpg)
 
-**IDEA**
+### **IDEA**
 
 ![preview_IDEA](src/IDEA.jpg)
 
-**DataGrip**
+### **DataGrip**
 
 ![preview_DataGrip](src/DataGrip.jpg)
 
-**Visual Studio**
+### **Visual Studio**
 
 ![preview_Visual Studio](src/Vs.jpg)
 
