@@ -49,10 +49,6 @@ Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友�
 
 ![preview_Notion](src/Notion.jpg)
 
-### **Tmux**
-
-![preview_Tmux](src/Tmux.jpg)
-
 ### **IDEA**
 
 ![preview_IDEA](src/IDEA.jpg)
@@ -63,6 +59,6 @@ Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友�
 
 ### **Visual Studio**
 
-![preview_Visual Studio](src/Vs.jpg)
+![preview_Visual Studio](src/VS.jpg)
 
 </div>
