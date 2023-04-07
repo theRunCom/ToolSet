@@ -25,7 +25,7 @@ English | [简体中文](README_ZH.md)
 
 **LunarVim**
 
-![preview_LunarVim](src/LunarVim.jpg)
+![preview_LunarVim](src/LunarVim.png)
 
 **DoomEmacs**
 
@@ -33,11 +33,11 @@ English | [简体中文](README_ZH.md)
 
 **Vscode**
 
-![preview_Vscode](src/Vscode.jpg)
+![preview_Vscode](src/Vscode.png)
 
 **Mobaxterm**
 
-![preview_Mobaxterm](src/Mobaxterm.jpg)
+![preview_Mobaxterm](src/Mobaxterm.png)
 
 **Notion**
 
