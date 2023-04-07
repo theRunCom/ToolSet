@@ -51,10 +51,6 @@ English | [简体中文](README_ZH.md)
 
 ![preview_IDEA](src/IDEA.jpg)
 
-**Lazygit**
-
-![preview_Lazygit](src/Lazygit.jpg)
-
 **DataGrip**
 
 ![preview_DataGrip](src/DataGrip.jpg)
@@ -63,10 +59,5 @@ English | [简体中文](README_ZH.md)
 
 ![preview_Visual Studio](src/Vs.jpg)
 
-**CP Editor**
-
-CP代表Competitive Programming，即竞技式编程。CP Editor 提供了各种有用的功能，如智能代码补全、自动代码评估、代码测试、交互式命令台等，以帮助用户更有效地练习算法竞赛。
-
-![preview_CP Editor](src/CP.jpg)
 
 </div>
