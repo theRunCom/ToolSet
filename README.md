@@ -33,9 +33,17 @@ Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友�
 
 ### **LunarVim**
 
+日常编码使用
+
+详情: https://github.com/theRunCom/MasterLunarVim
+
 ![preview_LunarVim](src/LunarVim.png)
 
 ### **Emacs**
+
+日常编码使用
+
+详情: https://github.com/theRunCom/EmacsSummary
 
 ![preview_Emacs](src/Emacs.jpg)
 
