@@ -85,4 +85,60 @@ Notion 是一款将笔记、知识库和任务管理整合在一起的协作工�
 
 ![preview_Sublime Text](src/ST.jpg)
 
+### **TeXstudio**
+
+TeXstudio 是一款免费的 LaTeX 编辑器，它支持多种操作系统，包括 Windows、macOS 和 Linux。它提供了丰富的功能，包括语法高亮、代码补全、自定义宏等等，能够帮助用户更好地编辑 LaTeX 文档。
+
+https://www.texstudio.org/
+
+![preview_TeXstudio](src/texstudio.png)
+
+### **Clash For Windows**
+
+Clash for Windows 是一款代理工具，它是 Clash 在 Windows 系统的唯一图形客户端，同时还支持 Windows、Linux、macOS 三大系统。它功能强大且支持多种代理协议，如 Shadowsocks (SS)、ShadowsocksR (SSR)、Socks、Snell、V2Ray、Trojan 等代理协议。
+
+https://docs.cfw.lbyczf.com/
+
+![preview_CFW](src/cfw.jpg)
+
+### **LX Music**
+
+https://lxmusic.toside.cn/
+
+![preview_LX](src/LX.jpg)
+
+### **XMind**
+
+XMind 是一款全功能的思维导图和头脑风暴软件，它可以帮助用户将复杂的信息和思维组织成清晰的思维导图。它像大脑的瑞士军刀一般，助你理清思路，捕捉创意。
+
+![preview_XMind](src/xmind.jpg)
+
+### **ReadPaper**
+
+顶级论文工具
+
+![preview_ReadPaper](src/ReadPaper.jpg)
+
+### **TradingView**
+
+TradingView是全球在K线图上最专业的图表工具
+
+![preview_TV](src/TV.jpg)
+
+### **chatbox**
+
+the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
+
+开源的 ChatGPT API (OpenAI API) 桌面客户端，Prompt 的调试与管理工具，支持 Windows、Mac 和 Linux
+
+![preview_chatbox](src/chatbox.png)
+
+### **calibre**
+
+Calibre 是一款强大且易用的电子书本地管理工具，可以在 Windows、macOS 和 Linux 平台集中整理各种格式的电子书。它支持导入几乎市面上所有的电子书格式，包括 PDF、ePub 和 mobi 等常见格式，以及亚马逊独家的 azw3 和最新的 kfx 格式。
+
+Calibre 还提供了格式转换的功能，可以将手上的电子书转换成 Kindle 支持的格式。此外，它还提供了内容服务器、无线设备共享和电子邮件共享等多种共享图书的办法，方便我们将电子书分享出去。
+
+![preview_calibre](src/calibre.jpg)
+
 </div>
