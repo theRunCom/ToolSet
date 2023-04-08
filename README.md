@@ -49,13 +49,23 @@ Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友�
 
 ### **Vscode**
 
+万能编辑器
+
+[Vscode on Windows 11 WSL 2](https://github.com/theRunCom/ToolSet/wiki/Vscode-on-Windows-11-WSL-2)
+
 ![preview_Vscode](src/Vscode.png)
 
 ### **Mobaxterm**
 
+MobaXterm 是一款增强型的 Windows 终端，它为 Windows 桌面提供了所有重要的远程网络工具（SSH、X11、RDP、VNC、FTP、MOSH…）和 Unix 命令（bash、ls、cat、sed、grep、awk、rsync…）
+
+https://mobaxterm.mobatek.net/
+
 ![preview_Mobaxterm](src/Mobaxterm.png)
 
 ### **Notion**
+
+Notion 是一款将笔记、知识库和任务管理整合在一起的协作工具。它不同于大部分的笔记软件，使用传统的「笔记本-笔记-标签」这一组合设定，它的主要构成是 Page（页面）、Block（编辑器）、Database（数据库）。
 
 ![preview_Notion](src/Notion.jpg)
 
@@ -70,5 +80,9 @@ Fedora 37为开发人员提供了许多好处。它是一款可靠、用户友�
 ### **Visual Studio**
 
 ![preview_Visual Studio](src/VS.jpg)
+
+### **Sublime Text**
+
+![preview_Sublime Text](src/ST.jpg)
 
 </div>
